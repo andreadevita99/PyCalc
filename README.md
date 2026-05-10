@@ -17,10 +17,11 @@ A terminal-based calculator developed in Python, that runs in a command-line int
 
 ## Execution Instructions
 
-1. Save the source code in a file named `pycalc.py`.
-2. Open a terminal in the target directory.
-3. Execute the command: `python pycalc.py` or `python3 pycalc.py`.
-4. Select an operation by entering the corresponding number and follow the prompts.
+1. Requirement: Python 3.6 or higher (no external libraries needed);
+2. Save the source code in a file named `pycalc.py`;
+3. Open a terminal in the target directory;
+4. Execute the command: `python pycalc.py` or `python3 pycalc.py`;
+5. Select an operation by entering the corresponding number and follow the prompts.
 
 ## License
 
