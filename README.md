@@ -1,11 +1,6 @@
-# PyCalc
+# PyCalc description
 
-A terminal-based calculator developed as a first project in Python.
-This document also serves as a first exercise in Markdown.
-
-## Description
-
-PyCalc performs basic arithmetic operations between two numbers. It runs in a command-line interface and includes error handling for invalid inputs and mathematical exceptions.
+A terminal-based calculator developed in Python, that runs in a command-line interface and performs arithmetic operations between numbers.
 
 ## Supported Operations
 
@@ -24,23 +19,8 @@ PyCalc performs basic arithmetic operations between two numbers. It runs in a co
 
 1. Save the source code in a file named `pycalc.py`.
 2. Open a terminal in the target directory.
-3. Execute the command: `python pycalc.py`
+3. Execute the command: `python pycalc.py` or `python3 pycalc.py`.
 4. Select an operation by entering the corresponding number and follow the prompts.
-
-## Technical Insights
-
-The project demonstrates the following programming concepts:
-
-- Function definition and reusability
-- Loop control with `while True`
-- Exception handling via `try/except`
-- Structured script execution using `if __name__ == "__main__"`
-
-## Planned Enhancements
-
-- Extension of mathematical functions (e.g., square root, trigonometric operations)
-- Storage of calculation history
-- Transition to a graphical user interface (Tkinter)
 
 ## License
 
